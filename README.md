@@ -12,4 +12,4 @@
 
 [Dreamcatcher](https://twitter.com/hf_dreamcatcher)
 
-![Dreamcatcher](https://pbs.twimg.com/profile_images/1348906160435314691/w8Lv9CG5_400x400.jpg)
+![Dreamcatcher](https://pbs.twimg.com/media/ErwsMdOUwAEF4F5?format=jpg&name=large)
