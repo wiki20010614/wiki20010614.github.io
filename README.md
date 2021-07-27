@@ -13,3 +13,20 @@
 [Dreamcatcher](https://twitter.com/hf_dreamcatcher)
 
 ![Dreamcatcher](https://pbs.twimg.com/media/ErwsMdOUwAEF4F5?format=jpg&name=large)
+
+=====
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>發送 LINE 訊息</title>
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+    <script>
+        $(function(){
+            $.post('https://maker.ifttt.com/trigger/line/with/key/你的金鑰',{value1:'Hello World'});
+        });
+    </script>
+</body>
+</html>
